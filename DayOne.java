@@ -1,3 +1,12 @@
+/**
+ * FUNCTION NATURE
+ * TSRS - Takes Something Return Something
+ * TSRN - Takes Something Return Nothing
+ * TNRS - Takes Nothing Return Something
+ * TNRN - Takes Nothing Return Nothing
+ */
+
+
 public class DayOne{
     public static void main(String...args) {
         int a,b;
@@ -33,10 +42,3 @@ public class DayOne{
 }
 
 
-/**
- * FUNCTION NATURE
- * TSRS - Takes Something Return Something
- * TSRN - Takes Something Return Nothing
- * TNRS - Takes Nothing Return Something
- * TNRN - Takes Nothing Return Nothing
- */
